@@ -4,7 +4,7 @@ This repository contains educational materials for IRV Risk Limiting Audits usin
 - The [Slides](https://github.com/DemocracyDevelopers/Colorado-irv-rla-educational-materials/blob/main/RaireGuide_SlideDeck.pdf) are a visual description of the main ideas.
 - The [Guide to RAIRE - Part 1](https://github.com/DemocracyDevelopers/Colorado-irv-rla-educational-materials/blob/main/A_Guide_to_RAIRE_Part_1.pdf) is a more detailed guide intended for election officials, audit board members, and interested members of the public.
 - The [Guide to RAIRE - Part 2](https://github.com/DemocracyDevelopers/Colorado-irv-rla-educational-materials/blob/main/A_Guide_to_RAIRE_Part_2.pdf) contains detailed technical descriptions of the important calculations. It is intended for developers.
-- The [Design Plan - v 1.0](https://github.com/DemocracyDevelopers/Colorado-irv-rla-educational-materials/blob/main/DesignPlan_v1.0.pdf) describes our proposal for editing [colorado-rla](https://github.com/cdos-rla/colorado-rla) to incorporate RAIRE. It is intended for people particularly interested in the details of the Colorado project.
+- The [Design Plan - v 1.0](https://github.com/DemocracyDevelopers/Colorado-irv-rla-educational-materials/blob/main/DesignPlan_v1.1.pdf) describes our proposal for editing [colorado-rla](https://github.com/cdos-rla/colorado-rla) to incorporate RAIRE. It is intended for people particularly interested in the details of the Colorado project.
 
 You can write, test and visualize RAIRE assertions using our [Online Assertion Explainer](https://democracydevelopers.github.io/raire-rs)
 which automates the process of drawing the elimination trees and verifying that the announced winner won.
